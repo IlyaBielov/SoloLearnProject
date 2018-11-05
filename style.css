@@ -3,7 +3,7 @@ html {
   padding: 0;
 }
 body {
-  font-family: 'Handlee', cursive;
+  font-family: "Handlee", cursive;
   font-size: 13pt;
   background-color: #efefef;
   padding: 10px;
@@ -34,8 +34,8 @@ p {
   margin-bottom: 10px;
   border-radius: 10px;
 }
-.section p span{
- color: red;
+.section p span {
+  color: red;
 }
 #header {
   background-image: url("https://www.sololearn.com/Uploads/header.jpg");
@@ -89,7 +89,7 @@ progress::-webkit-progress-bar {
 }
 progress::-webkit-progress-value {
   background: #3fb6b2;
-} 
+}
 progress::-moz-progress-bar {
   color: #3fb6b2;
   background: #efefef;
